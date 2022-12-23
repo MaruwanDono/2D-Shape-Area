@@ -1,0 +1,6 @@
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/bin/Debug/Assessment.exe
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/bin/Debug/Assessment.pdb
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/obj/x86/Debug/Assessment.csprojAssemblyReference.cache
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/obj/x86/Debug/Assessment.csproj.CoreCompileInputs.cache
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/obj/x86/Debug/Assessment.exe
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/obj/x86/Debug/Assessment.pdb

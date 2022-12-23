@@ -1,0 +1,3 @@
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/bin/Release/Assessment.exe
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/obj/x86/Release/Assessment.csproj.CoreCompileInputs.cache
+/home/wa/Desktop/Resume - Job Application/Assessments/mindbox/Assessment/Assessment/Assessment/obj/x86/Release/Assessment.exe

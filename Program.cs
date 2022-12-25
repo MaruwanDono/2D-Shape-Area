@@ -115,5 +115,27 @@ namespace BasicGeometry
 
 
 //SQL Command
-//
-//
+//Assuming there is a junction table Product_Category
+//with columns 'product_id' and 'category_id' linking the tables
+//Product and Category in a many-to-many relationship.
+/*
+ * 
+CREATE Product_Category_NamePair AS SELECT * FROM Product_Category;
+
+ALTER TABLE Product_Category_NamePair
+ADD Product_name VARCHAR(255), Category_name VARCHAR(255);
+
+
+INSERT INTO Product_Category_NamePair (Product_name)
+SELECT Product.name
+FROM Product
+INNER JOIN Product_Category_NamePair
+ON Product.id = Product_Category_NamePair.product_id;
+
+INSERT INTO Product_Category_NamePair (Category_name)
+SELECT Category.name
+FROM Category
+INNER JOIN Product_Category_NamePair
+ON Category.id = Product_Category_NamePair.category_id;
+*
+*/
